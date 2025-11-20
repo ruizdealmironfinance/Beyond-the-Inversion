@@ -5,6 +5,7 @@ This repository contains Beyond the Inversion, an academic project that builds o
 
 This extension allows the model to capture a dimension absent from the original framework: the role of uncertainty-driven risk premia, flight-to-safety dynamics, and policy responses that can alter both ends of the yield curve simultaneously
 The goal is to provide a more realistic, state-dependent interpretation of the yield curve’s predictive power.
+
 ---
 
 ## 📘 Project Description  
